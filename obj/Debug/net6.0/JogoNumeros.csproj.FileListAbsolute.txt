@@ -1,0 +1,15 @@
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\bin\Debug\net6.0\JogoNumeros.exe
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\bin\Debug\net6.0\JogoNumeros.deps.json
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\bin\Debug\net6.0\JogoNumeros.runtimeconfig.json
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\bin\Debug\net6.0\JogoNumeros.dll
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\bin\Debug\net6.0\JogoNumeros.pdb
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\JogoNumeros.csproj.AssemblyReference.cache
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\JogoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\JogoNumeros.AssemblyInfoInputs.cache
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\JogoNumeros.AssemblyInfo.cs
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\JogoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\JogoNumeros.dll
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\refint\JogoNumeros.dll
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\JogoNumeros.pdb
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\JogoNumeros.genruntimeconfig.cache
+C:\Users\lucia\documentos\Mentoria\ConsoleApp2\JogoNumeros\obj\Debug\net6.0\ref\JogoNumeros.dll
